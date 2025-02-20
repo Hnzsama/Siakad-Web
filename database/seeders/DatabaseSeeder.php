@@ -45,7 +45,7 @@ class DatabaseSeeder extends Seeder
         $this->call([
             ProvinceSeeder::class,
             RegencySeeder::class,
-            // DistrictSeeder::class,
+            DistrictSeeder::class,
         ]);
         School::factory()->create();
         // Semester::factory(100)->create();
