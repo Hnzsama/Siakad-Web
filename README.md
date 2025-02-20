@@ -56,13 +56,13 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Clone the project
 
 ```bash
-  git clone https://github.com/Hnzsama/Siakad.git
+  git clone https://github.com/Hnzsama/Siakad-Web.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Siakad
+  cd Siakad-Web
 ```
 
 Install dependencies
